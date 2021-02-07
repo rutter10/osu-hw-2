@@ -4,36 +4,3 @@ For this assignment I created a portfolio using a template I found online, and e
 If you would like to see the finished product please visit https://rutter10.github.io/osu-hw-2/
 
 ![Image of Top of Website](hw 2.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
